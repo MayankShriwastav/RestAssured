@@ -1,0 +1,27 @@
+
+
+# ignore all files starting with . or ~
+#.*
+#~*
+
+
+# ignore test output directory
+/target
+/test-0utput
+
+
+# ignore compiled files
+*.class
+
+
+
+
+# --------------------------------------------------------
+# BEGIN Explictly Allowed Files (i.e. do NOT ignore these)
+# --------------------------------------------------------
+
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!.env.example

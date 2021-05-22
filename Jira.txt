@@ -1,0 +1,7 @@
+
+*************Attach document*********
+
+This is my test....
+I am atteching this .txt file to jira. with eclipse..
+
+
